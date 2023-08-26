@@ -1,7 +1,13 @@
 # 💫 <h2 align="center">Hi 👋! My name is Justin and I'm a Devsecops Engineer,</h2>
 
-<img align="center" height="" src="https://media.giphy.com/media/8mee.gif" />
+<img align="right" height="150" src="https://i.gifer.com/8mee.gif"  />
 🔭 I’m DevSecops Engneer<br>👯 I’m looking to collaborate on OpenSource Projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning VR/AR<br>💬 Ask me about Something<br>⚡ Fun fact i`m tech physoc
+
+
+
+
+
+
 
 
 # 💻 Tech Stack:
