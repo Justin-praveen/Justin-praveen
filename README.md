@@ -1,5 +1,5 @@
 # 💫 <h2 align="center">Hi 👋! My name is Justin and I'm a Devsecops Engineer,</h2>
-https://i.gifer.com/758X.gif
+
 <img align="right" height="" src="https://i.gifer.com/758X.gif"  />
 🔭 I’m DevSecops Engneer<br>👯 I’m looking to collaborate on OpenSource Projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning VR/AR<br>💬 Ask me about Something<br>⚡ Fun fact i`m tech physoc
 
