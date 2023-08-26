@@ -27,16 +27,6 @@
 
 
 
-<h2 align="left">Hi 👋! My name is Justin and I'm a Devsecops Engineer,</h2>
-
-
-###
-
-<br clear="both">
-
-<img align="right" height="" src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
